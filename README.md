@@ -10,15 +10,18 @@ A Flask-based smart parking assistant that uses fuzzy logic to score how easy or
 🔊 Voice Alerts — Web Speech API reads out the decision
 💾 History Log — last 10 analyses stored per session
  # 📈 Membership Function Charts — visualize the Near/Medium/Far, Small/Medium/Large, and Tight/Normal/Easy fuzzy sets
-📸 Screenshots
 <img width="1619" height="340" alt="image" src="https://github.com/user-attachments/assets/f68bd4d6-6c14-4531-b621-16a5a5188981" />
-Membership Functions
+    Membership Functions
+    
 
 <img width="1576" height="901" alt="image" src="https://github.com/user-attachments/assets/a28ffecf-ce8a-4b82-90cb-77347790046d" />
-AI Chat + History
+    AI Chat + History
+    
 
 <img width="1637" height="859" alt="image" src="https://github.com/user-attachments/assets/f4daa55e-87b1-4a15-8b66-06fb31d045e6" />
-Live analysis with score, risk, and slot recommendation:
+    Live analysis with score, risk, and slot recommendation:
+
+    
 # 📁 Project Structure
 parking_system/
 ├── app.py              ← Flask backend (routes, session, slot logic)
